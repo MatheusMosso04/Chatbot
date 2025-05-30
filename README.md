@@ -7,3 +7,5 @@ Para realizar a instalação é preciso rodar o seguinte código no terminal:
 pip install -r requirements.txt
 
 Feito a instalação pode ser realizado o teste localmente do chatbot.
+
+Arquivos referentes ao chatbot contam na Branch Master.
